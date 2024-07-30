@@ -1,0 +1,2 @@
+1) never call setState((){}) in init
+2)never use scroolview with expanded
